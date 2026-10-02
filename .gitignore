@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Сгенерированные спецификации (результаты работы программы)
+# Раскомментируйте, если не хотите хранить их в репозитории:
+# *.xlsx
+# *.csv
